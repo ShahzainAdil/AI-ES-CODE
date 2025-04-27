@@ -1,8 +1,10 @@
-Tic Tac Toe AI
+**Tic Tac Toe AI**
 
 A concise, high-performance Tic Tac Toe game demonstrating Minimax and Alpha-Beta Pruning
 
-🚀 Features
+
+🚀 **Features**
+
 
 Core Gameplay: 3×3 Tic Tac Toe with human (O) vs. AI (X)
 
@@ -14,7 +16,9 @@ Performance Counters: Tracks recursive calls and timing
 
 Dual Modes: Play against AI or benchmark Minimax vs. Alpha‑Beta
 
-🎮 Gameplay
+
+🎮 **Gameplay**
+
 
 Human vs. AI:
 
